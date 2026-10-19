@@ -2,7 +2,7 @@
 
 Root of the `carlot78.github.io` domain. It exists mainly to serve
 [`/.well-known/assetlinks.json`](.well-known/assetlinks.json), which proves to
-Android that the **Aphorisms** Play Store app (`io.github.carlot78.aphorisms`)
+Android that the **Aphorisms** Play Store app (`com.aphorisms`)
 belongs to https://carlot78.github.io/aphorisms/ — so the app opens full-screen
 without a browser bar (Trusted Web Activity).
 
